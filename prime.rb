@@ -7,5 +7,5 @@ def prime?(int)
   elsif int.even?
     false
   end #if
-  
+
 end #prime?
