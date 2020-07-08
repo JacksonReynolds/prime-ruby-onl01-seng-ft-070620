@@ -1,6 +1,6 @@
 # Add  code here!
 def prime?(int)
-  if int == 2 
+  if int == 2
     true
   elsif int == 0 || int == 1 || int.even? || int % 3 == 0
     false
@@ -14,6 +14,6 @@ def prime?(int)
     end #while
     true
   end #if
-  
+
 
 end #prime?
